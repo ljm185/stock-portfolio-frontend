@@ -27,7 +27,8 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "3.4.0",
     "serialize-javascript": ">=3.1.0",
-    "ssri": ">=7.1.1"
+    "ssri": ">=7.1.1",
+    "y18n": ">=4.0.1"
   },
   "scripts": {
     "start": "PORT=3001 react-scripts start",
